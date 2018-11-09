@@ -1,1 +1,5 @@
-public class Custom();_
+public class Custom(){
+
+​	private String repo2;
+
+};
